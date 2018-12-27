@@ -7,6 +7,7 @@ package chess;
 /**\par
  *\par
  * @author Schramm\par
+ * @author Konstantin
  */
 public class Coordinate {
     
