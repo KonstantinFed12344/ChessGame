@@ -6,7 +6,7 @@
 package chess;
 
 /**
- *
+ * @author Konstantin
  * @author Schramm
  */
 public enum ChessPieces {
